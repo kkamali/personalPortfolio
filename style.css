@@ -1,0 +1,24 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.wrapper {
+    font-family: verdana, arial, sans-serif;
+}
+
+p {
+    width: 200px;
+    display: inline-block;
+}
+
+img {
+    display: inline-block;
+    vertical-align: top;
+    width: 300px;
+    height: 300px;
+}
+
+a {
+    text-decoration: none;
+}
